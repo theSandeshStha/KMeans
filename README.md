@@ -44,4 +44,4 @@ To follow this project, please install the following locally:
 
 ## Data
 
-We'll be using data from FIFA, which you can download [here](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset).  The file `players_22.csv` is used.
+The data will be used from FIFA, which you can download [here](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset).  The file `players_22.csv` is used.
